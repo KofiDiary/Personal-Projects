@@ -1,0 +1,27 @@
+from turtle import *
+import turtle 
+pen = turtle.Turtle()
+color ("black", "red") 
+begin_fill()
+left (50)
+forward (200)
+circle (80, 200)
+left (224)
+circle (80, 200) 
+forward (200)
+end_fill() 
+def text():
+	pen.up()
+	pen.setpos(-145, 175)
+	pen.down()
+	pen.color("white")
+	pen.write("Happy B'day Helen", font = ("Ariel", 7, "bold"))
+	pen.setpos(-85, 100)
+	pen.down()
+	pen.color("white") 
+	pen.write("I Love You", font = ("Ariel", 7, "bold"))
+	turtle.hideturtle()
+	turtle.exitonclick()
+text()
+pen.ht
+done ()
