@@ -1,4 +1,4 @@
-print ("Hello Johnny Torgbegah. My name is Diary. How are you doing today?")
+print ("Hello, my name is Diary. How are you doing today?")
 health = input ()
 if health == "I am fine" or health == "I'm fine" or health == "I'm good" or health == "I'm great" or health == "I am good" or health == "I am great" or health == "Fine" or health == "fine" or health == "Good" or health == "good":
     print ("Okay, we thank God.")
