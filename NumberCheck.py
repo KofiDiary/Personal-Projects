@@ -27,7 +27,7 @@ while Loop:
         if Number == Number1:
             break
 
-print ("You have requested to send money to so so and so person")
+print ("Pass")
 
         
         
