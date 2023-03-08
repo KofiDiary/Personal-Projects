@@ -1,3 +1,4 @@
+#Password pass for my Truth or Dare game
 print ("This level's been locked by the administrator. To proceed, you need a four digits code. If you do not have that code, please contact the administrator for it, thanks") 
 input () 
 Password = 2564
